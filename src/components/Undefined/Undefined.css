@@ -1,0 +1,21 @@
+.undefined {
+  width: 100%;
+  max-width: 100%;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.null {
+  width: 100%;
+  max-width: 50%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.undefineded {
+  font-size: 100px;
+  text-align: center;
+}
